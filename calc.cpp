@@ -20,6 +20,8 @@ int main(){
 
     cout << "side c: " << c;
 
+    return 0;
+
 
 
 
